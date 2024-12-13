@@ -106,6 +106,3 @@ to handle the api
 3. Uses Redux to handle the authentication state (isAuthenticated) and dispatch login and logout actions.
 * The component uses React's useState for managing form inputs (username, password, email) and form visibility (showLoginForm, showSignUpForm).
 * It also uses useEffect to check if the user is authenticated upon initial load.
-
-
-# Conclusion
