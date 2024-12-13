@@ -1,5 +1,5 @@
 # Advanced Todo Application
-![Logo](./todo-app/src/assets/Nikesh.png)
+![image alt](https://github.com/nikesh-patra/assign/blob/efc25ea4800804e41a98d2f1931ae07dd4431e33/Dashboard.png)
 
 # Setup
 Install Node.js and NPM
